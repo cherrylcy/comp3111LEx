@@ -4,3 +4,6 @@ The project includes:
 * Lab1 package
     * mainApp1
     * myLibrary
+
+Screenshot of the exercise:
+![screenshot](https://github.com/cherrylcy/comp3111LEx/COMP3111Ex_screenshot.png)
