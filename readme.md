@@ -6,4 +6,4 @@ The project includes:
     * myLibrary
 
 Screenshot of the exercise:
-![screenshot](https://github.com/cherrylcy/comp3111LEx/src/blob/master/COMP3111LEx_screenshot.png)
+![screenshot](https://github.com/cherrylcy/comp3111LEx/blob/master/src/COMP3111LEx_screenshot.png)
